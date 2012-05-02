@@ -21,3 +21,9 @@ Informations techniques disponibles sur le wiki : [Présentation (Google Code)](
 ![Ecran 3](http://up.studio-dev.fr/_/4.png)
 
 Projet de développement IA réalisé par Julien Lafont, Alexandre Bernard et Djeneba Djikine (EPSI 2011)
+
+## Licence
+
+Cette application est distribuée sous licence Creative Commons BY-NC-SA 3.0.
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
