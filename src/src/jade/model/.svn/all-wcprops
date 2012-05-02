@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/src/jade/model
+END
+QuestionSport.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/src/jade/model/QuestionSport.java
+END
+QuestionSerie.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/src/jade/model/QuestionSerie.java
+END
+QuestionEntite.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/src/jade/model/QuestionEntite.java
+END
+Container.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/src/jade/model/Container.java
+END
+Sport.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/jade/model/Sport.java
+END
+Serie.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/jade/model/Serie.java
+END
+Entite.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/jade/model/Entite.java
+END
